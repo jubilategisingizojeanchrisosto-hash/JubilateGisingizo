@@ -54,8 +54,8 @@ I am a **BBIT Graduate** (University of Kigali) with a passion for **Digital Ban
 ---
 
 ## 📬 Let's Connect!
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
+- **LinkedIn:** [https://www.linkedin.com/in/gisingizo-jean-chris-289617246/]
+- **Email:** [jubilategisingizojeanchrisosto@gmail.com]
 - **Location:** Kigali, Rwanda / Remote / Global
 
 ---

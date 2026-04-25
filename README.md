@@ -48,8 +48,8 @@ I am a **BBIT Graduate** (University of Kigali) with a passion for **Digital Ban
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JubilateG&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JubilateG&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jubilategisingizojeanchrisosto-hash&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jubilategisingizojeanchrisosto-hash&layout=compact&theme=radical)
 
 ---
 
